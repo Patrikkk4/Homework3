@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3.1GameWithPC", "Homework3.1GameWithPC.csproj", "{7D8404B0-5BA3-4B6C-82B0-2213822D1EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork3.0GameWithFriend", "..\HomeWork3.0GameWithFriend\HomeWork3.0GameWithFriend.csproj", "{6E859816-EB70-4C12-8F3B-7EC27343F929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8404B0-5BA3-4B6C-82B0-2213822D1EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8404B0-5BA3-4B6C-82B0-2213822D1EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8404B0-5BA3-4B6C-82B0-2213822D1EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8404B0-5BA3-4B6C-82B0-2213822D1EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E859816-EB70-4C12-8F3B-7EC27343F929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E859816-EB70-4C12-8F3B-7EC27343F929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E859816-EB70-4C12-8F3B-7EC27343F929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E859816-EB70-4C12-8F3B-7EC27343F929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7468E6E1-53E0-4DE8-86C1-F9B3800F650F}
+	EndGlobalSection
+EndGlobal
